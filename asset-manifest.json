@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7a6e6a7.css",
-    "main.js": "/static/js/main.20b08b9c.js",
+    "main.js": "/static/js/main.05a269b9.js",
     "static/js/787.aaf28f1b.chunk.js": "/static/js/787.aaf28f1b.chunk.js",
     "static/media/032PARTITOCOMUNISTADEILAVORATORI_SIE.PNG": "/static/media/032PARTITOCOMUNISTADEILAVORATORI_SIE.26b51db228a1eb37cd42.PNG",
     "static/media/063USEI_SIE.PNG": "/static/media/063USEI_SIE.bee185876b0cab62255b.PNG",
@@ -43,11 +43,11 @@
     "static/media/053FORZANUOVA_SIE.PNG": "/static/media/053FORZANUOVA_SIE.a9f6071df5deebe70f71.PNG",
     "index.html": "/index.html",
     "main.d7a6e6a7.css.map": "/static/css/main.d7a6e6a7.css.map",
-    "main.20b08b9c.js.map": "/static/js/main.20b08b9c.js.map",
+    "main.05a269b9.js.map": "/static/js/main.05a269b9.js.map",
     "787.aaf28f1b.chunk.js.map": "/static/js/787.aaf28f1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a6e6a7.css",
-    "static/js/main.20b08b9c.js"
+    "static/js/main.05a269b9.js"
   ]
 }
